@@ -21,9 +21,9 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="/new-eo">
+    <a href="{{ site.baseurl }}/new-eo">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/new-eos.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/new-eos.png')"></div>
       </div>
       <div class="card-text">
         <p>New Election Officer</p>
@@ -32,9 +32,9 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/new-laws">
+    <a href="{{ site.baseurl }}/new-laws">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/id-checklist.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/id-checklist.png')"></div>
       </div>
       <div class="card-text">
         <p>Changes to Virginia Election Laws</p>
@@ -43,9 +43,9 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/new-chief">
+    <a href="{{ site.baseurl }}/new-chief">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/chiefs-notebook-cropped.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/chiefs-notebook-cropped.png')"></div>
       </div>
       <div class="card-text">
         <p>New Chief and Assistant Chief</p>
@@ -54,9 +54,9 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/non-routine-specialist/">
+    <a href="{{ site.baseurl }}/non-routine-specialist/">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/what-ifs.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/what-ifs.png')"></div>
       </div>
       <div class="card-text">
         <p>Non-Routine Specialist</p>
@@ -65,9 +65,9 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/ppe-specialist/">
+    <a href="{{ site.baseurl }}/ppe-specialist/">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/ppe-face-masks.jpg')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/ppe-face-masks.jpg')"></div>
       </div>
       <div class="card-text">
         <p>PPE Specialist</p>
@@ -76,9 +76,9 @@ title: Home
     </div>
 
     <div class="card">
-    <a href="/chiefs-briefing/">
+    <a href="{{ site.baseurl }}/chiefs-briefing/">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/chiefs-briefing-small.jpg')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>Chiefs Briefing</p>
@@ -93,9 +93,9 @@ title: Home
 <div class="cards">
 
     <div class="card">
-    <a href="/hs-page">
+    <a href="{{ site.baseurl }}/hs-page">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/high-school-pages-small.jpg')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/high-school-pages-small.jpg')"></div>
       </div>
       <div class="card-text">
         <p>High School Page</p>
@@ -138,9 +138,9 @@ function hideDIV() {
 <div class="cards">
 
     <div class="card">
-    <a href="/cap-eo">
+    <a href="{{ site.baseurl }}/cap-eo">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Election Officer Training</p>
@@ -150,9 +150,9 @@ function hideDIV() {
     </div>
 
     <div class="card">
-    <a href="/cap-ballot-check-in">
+    <a href="{{ site.baseurl }}/cap-ballot-check-in">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Returned Ballot Check-In</p>
@@ -162,9 +162,9 @@ function hideDIV() {
     </div>
 
     <div class="card">
-    <a href="/cap-preprocessing">
+    <a href="{{ site.baseurl }}/cap-preprocessing">
       <div class="card-image-container">
-        <div class="card-image" style="background-image: url('/assets/img/fairfax-county-govt-center.png')"></div>
+        <div class="card-image" style="background-image: url('{{ site.baseurl }}/assets/img/fairfax-county-govt-center.png')"></div>
       </div>
       <div class="card-text">
         <p>CAP Preprocessing</p>

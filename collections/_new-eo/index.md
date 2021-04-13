@@ -3,7 +3,7 @@ layout: home
 title: "New Election Officer Training"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/new-eos-2.png">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/new-eos-2.png">
 
 <div class="homepage-intro">
 Welcome to the New Election Officer online training class!

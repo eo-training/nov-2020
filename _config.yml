@@ -86,7 +86,7 @@ collections:
 
 # Permalinks
 permalink:           /:short_year/:month/:title
-# baseurl: /
+baseurl: /nov-2020
 
 # Fix date/time generation
 timezone: America/New_York

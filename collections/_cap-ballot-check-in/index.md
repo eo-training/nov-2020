@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/cap-returned-ballot-check-in-001.png">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/cap-returned-ballot-check-in-001.png">
 
 <div class="homepage-intro">
 Welcome to the CAP Returned Ballot Check-In online training!

@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/high-school-pages-small.jpg">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/high-school-pages-small.jpg">
 
 <div class="homepage-intro">
 Welcome to the High School Page online training class!

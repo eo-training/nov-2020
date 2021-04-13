@@ -3,7 +3,7 @@ layout: home
 title: "Chiefs Briefing"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/chiefs-briefing-small.jpg">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/chiefs-briefing-small.jpg">
 
 <div class="homepage-intro">
 Welcome to the online Chiefs Briefing!

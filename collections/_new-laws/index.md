@@ -3,7 +3,7 @@ layout: home
 title: "New Election Officer Training"
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/id-checklist-longer.png">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/id-checklist-longer.png">
 
 <div class="homepage-intro">
 Welcome to the Changes to Virginia Election Laws online training class!

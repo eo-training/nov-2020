@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-<img class="hero-image" src="{{ site.url }}/assets/img/cap-slide-004.jpg">
+<img class="hero-image" src="{{ site.url }}{{ site.baseurl }}/assets/img/cap-slide-004.jpg">
 
 <div class="homepage-intro">
 Welcome to the CAP Election Officer online training!
