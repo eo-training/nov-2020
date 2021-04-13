@@ -5,16 +5,16 @@
 		<div class="ravi-menubar">
 
 			<div class="ravi-menubar-homelink">
-				<a href="{{ site.url }}{{ site.baseurl }}"><i class="fa fa-home"></i></a>
-				<a href="{{ site.url }}{{ site.baseurl }}">/</a>
+				<a href="{{ site.url }}{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
+				<a href="{{ site.url }}{{ site.baseurl }}/">/</a>
 				{% if page.collection %}
 					{% for class in site.collections %}
 					{% if class.label == page.collection %}
-					<a href="{{ site.baseurl }}/{{ page.collection }}">{{ class.title }}</a>
+					<a href="{{ site.baseurl }}/{{ page.collection }}/">{{ class.title }}</a>
 					{% endif %}
 					{% endfor %}
 				{% else %}
-				<a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+				<a href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a>
 				{% endif %}
 			</div>
 
